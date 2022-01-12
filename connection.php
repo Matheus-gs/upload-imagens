@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "rubik";
+$pass = "";
 $database = "upload_imagens";
 
 $connection_string = 'mysql:host=' . $host . ';dbname=' . $database;
